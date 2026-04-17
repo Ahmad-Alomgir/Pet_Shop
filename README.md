@@ -1,4 +1,4 @@
-````markdown
+
 # Pet Food Store
 
 A full-stack web-based e-commerce application for browsing, managing, and purchasing pet products. The system includes a modern customer storefront and a secure administrative dashboard for handling products, categories, coupons, sliders, payment methods, and orders.
