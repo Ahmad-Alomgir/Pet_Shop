@@ -1,0 +1,40 @@
+<template>
+     <div class="loader" v-if="show">
+       <div class="spinner"></div>
+     </div>
+   </template>
+   
+   <script>
+   export default {
+     props: {
+       show: {
+         type: Boolean,
+         default: false
+       }
+     }
+   }
+   </script>
+   
+   <style scoped>
+   .loader {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 20px;
+   }
+   
+   .spinner {
+     width: 40px;
+     height: 40px;
+     border: 4px solid #ccc;
+     border-top: 4px solid #27ae60;
+     border-radius: 50%;
+     animation: spin 1s linear infinite;
+   }
+   
+   @keyframes spin {
+     to {
+       transform: rotate(360deg);
+     }
+   }
+   </style>
