@@ -36,13 +36,13 @@ The project demonstrates important web development concepts such as:
 
 ## Live Demo
 
-**Live Site:** `https://your-live-site-link.com`
+**Live Site:** `https://alomgir.free.nf/pet-food-store/`
 
 ---
 
 ## GitHub Repository
 
-**Repository:** `https://github.com/your-username/your-repository`
+**Repository:** `https://github.com/Ahmad-Alomgir/Pet_Shop/`
 
 ---
 
